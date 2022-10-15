@@ -26,15 +26,17 @@ prove my skills and utilize my knowledge & intelligence to upskill myself..</h3>
 
 - ⚡ Fun fact **I am funny.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@Rohitsjerry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@RohitsJerry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit-sawant-a1b636177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RohitSawant" height="30" width="40" /></a>
 </p>
+</br>
+</br>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left"> 📌 Tech Stack:</h2>
 <div display="flex">
-  <h2>FrontEnd</h2>    
+  <h3> 🖥️ FrontEnd</h3>    
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" align="center" alt="styled-components" />
@@ -44,16 +46,25 @@ prove my skills and utilize my knowledge & intelligence to upskill myself..</h3>
  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
 </div>
 
-  <div ><h2>Backend</h2> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-
+ <div ><h3> 👾 BackEnd</h3> 
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
  </div>
  
+   <div ><h3> ⚓️ Tools</h3> 
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+ </div>
+ 
+</br>
+</br>
 
        
-## 📊 My Github Stats
+## 📊  My Github Stats
 <!--   <br/> -->
 <!-- <img align="right" src="" alt="RohitDSawant"  /> -->
    <a href="https://github.com/RohitDSawant/github-readme-stats">
