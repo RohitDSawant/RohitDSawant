@@ -16,7 +16,7 @@ prove my skills and utilize my knowledge & intelligence to upskill myself..</h3>
 
 - 🌱 I’m currently learning Full Stack Web Development in **Masai School**
 
-- 👨‍💻 All of my projects are available at  <a href="https://rohitsawant0351.github.io"> **Portfolio** </a>
+- 👨‍💻 All of my projects are available at  <a href="https://rohitdsawant.github.io/RohitDSawant.io/"> **Portfolio** </a>
 
 - 💬 Ask me about **Javascript,HTML & CSS, React & Redux**
 
