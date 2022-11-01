@@ -9,7 +9,7 @@
 opportunity to work in a challenging environment to
 prove my skills and utilize my knowledge & intelligence to upskill myself..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Sawant-rs&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Sawant-rs" /> </p>
+<p align="left"> <img border-radius"10" src="https://komarev.com/ghpvc/?username=Rohit-Sawant-rs&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Sawant-rs" /> </p>
 
 
 <img  align="right" margin-top="10px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
