@@ -18,7 +18,7 @@ prove my skills and utilize my knowledge & intelligence to upskill myself..</h3>
 
 - 👨‍💻 All of my projects are available at  <a href="https://rohitdsawant.github.io"> **Portfolio** </a>
 
-- 💬 Ask me about **Javascript,HTML & CSS, React & Redux**
+- 💬 Ask me about **Javascript,HTML & CSS, React, Redux & MongoDB**
 
 - 📫 How to reach me **rohits1547@gmail.com**
 
